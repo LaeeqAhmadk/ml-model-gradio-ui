@@ -1,4 +1,5 @@
 import gradio as gr
+import sklearn
 #['preg', 'plas', 'pres', 'skin', 'test', 'mass', 'pedi', 'age', 'class']
 import joblib
 loaded_model = joblib.load('trained_model.pkl')
