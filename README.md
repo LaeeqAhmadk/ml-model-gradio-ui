@@ -6,7 +6,6 @@ This repository contains a diabetes prediction model built using Logistic Regres
 
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
